@@ -21,37 +21,38 @@ Apos evoluirem um pouco suas habilidades e conhecimento e a situação envolvend
 
 		
 		
-Quests
-	Pricipais
-		Ir para capital
-			Falar com Eadwing
-			Ir até Dalthur e conseguir equipamentos
-		Capturar e interrogar os membros da Mogno
+## Quests
+* Ir para capital
+	1. Falar com Eadwing
+	2. Ir até Dalthur e conseguir equipamentos
+* Capturar e interrogar os membros da Mogno
 	
 		
-Bestiário
-	GOBLIN
-	CHEFE GOBLIN
-	ESQUELETO
-	ZUMBI
-	OGRO ZUMBI
-	OBSERVADOR ZUMBI
-	ENTE
-	ANKHEG
-	BEHIR
-	WYVERN
+Bestiário|
+--------- |
+GOBLIN|
+CHEFE GOBLIN|
+ESQUELETO|
+ZUMBI|
+OGRO ZUMBI|
+OBSERVADOR ZUMBI|
+ENTE|
+ANKHEG|
+BEHIR|
+WYVERN|
 
-	
-Xp			  Lvl
-0					 1
-300				 2
-900				 3
-2,700			 4
-6,500			 5
-14,000		 6
-23,000		 7
-34,000		 8
-48,000		 9
-64,000		10
+
+Xp			  |   Lvl
+----------|-------
+ 0				|	 1
+ 300			|	 2
+ 900			|	 3
+ 2,700		|	 4
+ 6,500		|	 5
+ 14,000		|	 6
+ 23,000		|	 7
+ 34,000		|	 8
+ 48,000		|	 9
+ 64,000		|	 10
 
 	

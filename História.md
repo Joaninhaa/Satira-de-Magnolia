@@ -21,28 +21,60 @@
  Após evoluírem um pouco suas habilidades e conhecimento e a situação envolvendo a transformação se espalhar por Stellata, Eadwing pede que Artemis e Camilo retornem para a Academia. Chegando naquele local um desastre ocorre, alguns servos da Magno planejam atacar a pequena vila com um exército de goblins, os batedores da academia descobrem essa informação com um dia de antecedência, o que não era tempo suficiente para chegar ajuda da capital fazendo necessário com que todos os estudantes da academia entrem em combate. 
  Porém, enquanto a vila sofreu um ataque, o verdadeiro plano da Magno é revelado. Três servos diferente dos demais, normalmente os servos são vistos com mantos, aqueles que são magos, ou um manto cobrindo um de seus ombros, para os guerreiros, e alguns utilizam uma capa, os elfos. Entretanto, essas vestes compartilham a mesma coloração, preta, e trazem o símbolo de Magno: O último Barão da Destruição, Roca. Entretanto entre esses servos que apareceram, dois deles usam mantos muito mais adornados e com vários detalhes além de trazer uma representação do Verme Púrpura, o penúltimo Barão da Destruição, e o último utiliza uma veste completamente diferente, ela tem um tom rosado e apresenta um olho gigantesco no peito além de um conjunto de círculos de diversas colorações nas costas. Eles atacam a Academia utilizando um WYVERN, lançando ela em chamas e indo embora tão rápido quanto vieram. É possível notar o desespero de Eadwing quando ele vê a Academia em chamas e ele corre em direção a ela gritando histericamente: A COLEÇÃO PROIBIDA, ELA NÃO PODE SER PERDIDA, NÃO NESSE MOMENTO.
 
+## A Revelação
+ Eadwing junta os magos sobreviventes e conta sobre o que realmente aconteceu nesse ataque. Claramente o objetivo da Magno era destruir o conhecimento contido na Coleção Proibida, nela estavam guardados partes dos livros, texto e conhecimento em geral q a imperatriz considerou importante. As maiores preocupações do diretor eram o q fora perdido e o q poderia ser recupera e, principalmente, quem divulgou a informação sobre a coleção, pois apenas um grupo seleto de pessoas sabia sobre a sua existencia. Ele convida o grupo de alunos, agora aventureiros da guilda de Gerbera, para vasculhar sobre a biblioteca proibida e é nesse momentos que teorias podem começar a surgir sobre o novo objetivo da Magno. 
+ Alguns livros em especifico chamam atenção em meio a tanto conhecimento inutilizado, sendo eles: O Feudo dos Drãgoes, Magno, Necronomicon: Entre a Vida e a Monstruosidade, O Mito da Estrela Branca, Edelvais: A Batalha Solar, Grimorio: Basicos e Os Senhores de Stellata.
 
-		
+## Os Senhores de Stellata
+ Nao se sabe até que ponto uma crença ou hitorieta popular pode conter verdade, entretanto é inquestionavel que em algum momento da historia começaram a surgir inumeros registros criaturas muito mais poderosas que o normal. Suas descrições variam um pouco de escrita para escrita, porem elas sempre conduzem ao mesmo resultado. Os Antigos começaram a classificar os monstros e sua periculosidade usando titulos da nobreza, entretanto qualquer coisa acima de Lordes, e incluindo eles, sao capazer de causar uma destruição praticamente impossivel de combater. No reino de Stellata, tres senhores sao conhecidos atraves de antigas escrituras: Hidra, a Dama da agua, descrita como uma ser grande com uma pele prarecida com a de uma cobra, e nao somente isso, possui quatro grandes patas que sustentam seu rabo e as cabeças da criatura. Nesse ponto as escrituras divergem muito, dessa forma nao sendo possivel um concensso entre a quantidade de cabeças, entretanto, com certeza sao mais de tres. Tambem é relatado que todo tipo de ataque contra a criatura foi infertil, pois aparentemente suas capacidades regenerativas sao muito altas tal como sua fome voraz.
+
+## O Feudo dos Drãgoes
+
+## Magno
+
+## Necronomicon: Entre a Vida e a Monstruosidade
+
+## O Mito da Estrela Branca
+
+## Edelvais: A Batalha Solar
+
+## Grimorio: Basicos e Os Senhores de Stellata
+
+## Conclusoes
+	
 		
 ## Quests
 * Ir para capital
 	1. Falar com Eadwing
 	2. Ir até Dalthur e conseguir equipamentos
 * Capturar e interrogar os membros da Mogno
+	1. Derrotar os prisioneiros transformados
+	2. Descobrir o que ocorreu na sala do trono
+* Retornar a Academia de Magia para ajudar na batalha
+	1. Aprender sobre a Coleçao Proibida 
+* Vasculhar os escombros da Coleção Proibida
+	1. Aprender sobre os Lordes e os Senhores
+	2. Especular sobre o plano da Magno
+* Usar a ajuda de Sigmaia para falar secretamente com Peônia
 	
 		
-Bestiário|
---------- |
-GOBLIN|
+Bestiário		|
+------------|
+GOBLIN			|
 CHEFE GOBLIN|
-ESQUELETO|
-ZUMBI|
-OGRO ZUMBI|
+ESQUELETO		|	
+ZUMBI				|
+OGRO ZUMBI	|
 OBSERVADOR ZUMBI|
 ENTE|
 ANKHEG|
 BEHIR|
 WYVERN|
+DRAGAO BRANCO ANCIÃO|
+DRAGAO AZUL ANCIÃO|
+DRAGAO COBRE ANCIÃO|
+DRAGAO VERMELHO ANCIÃO|
+TARRASQUE|
 
 
 Xp			  |   Lvl

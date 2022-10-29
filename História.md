@@ -26,7 +26,9 @@
  Alguns livros em especifico chamam atenção em meio a tanto conhecimento inutilizado, sendo eles: O Feudo dos Drãgoes, Magno, Necronomicon: Entre a Vida e a Monstruosidade, O Mito da Estrela Branca, Edelvais: A Batalha Solar, Grimorio: Basicos e Os Senhores de Stellata.
 
 ## Os Senhores de Stellata
- Nao se sabe até que ponto uma crença ou hitorieta popular pode conter verdade, entretanto é inquestionavel que em algum momento da historia começaram a surgir inumeros registros criaturas muito mais poderosas que o normal. Suas descrições variam um pouco de escrita para escrita, porem elas sempre conduzem ao mesmo resultado. Os Antigos começaram a classificar os monstros e sua periculosidade usando titulos da nobreza, entretanto qualquer coisa acima de Lordes, e incluindo eles, sao capazer de causar uma destruição praticamente impossivel de combater. No reino de Stellata, tres senhores sao conhecidos atraves de antigas escrituras: Hidra, a Dama da agua, descrita como uma ser grande com uma pele prarecida com a de uma cobra, e nao somente isso, possui quatro grandes patas que sustentam seu rabo e as cabeças da criatura. Nesse ponto as escrituras divergem muito, dessa forma nao sendo possivel um concensso entre a quantidade de cabeças, entretanto, com certeza sao mais de tres. Tambem é relatado que todo tipo de ataque contra a criatura foi infertil, pois aparentemente suas capacidades regenerativas sao muito altas tal como sua fome voraz.
+ Nao se sabe até que ponto uma crença ou hitorieta popular pode conter verdade, entretanto é inquestionavel que em algum momento da historia começaram a surgir inumeros registros criaturas muito mais poderosas que o normal. Suas descrições variam um pouco de escrita para escrita, porem elas sempre conduzem ao mesmo resultado. Os Antigos começaram a classificar os monstros e sua periculosidade usando titulos da nobreza, entretanto qualquer coisa acima de Lordes, e incluindo eles, sao capazer de causar uma destruição praticamente impossivel de combater. No reino de Stellata, tres senhores sao conhecidos atraves de antigas escrituras: Hidra, a Dama da agua, descrita como uma ser grande com uma pele prarecida com a de uma cobra, e nao somente isso, possui quatro grandes patas que sustentam seu rabo e as cabeças da criatura. Nesse ponto as escrituras divergem muito, dessa forma nao sendo possivel um concensso entre a quantidade de cabeças, entretanto, com certeza sao mais de tres. Tambem é relatado que todo tipo de ataque contra a criatura foi infertil, pois aparentemente suas capacidades regenerativas sao muito altas tal como sua fome voraz. As lendas contam que tal monstro existia nas planicies do sul de Stallata na regiao que atualmente ha o mar da Estrela-Branca.
+ Basilisco, o senhor das montanhas, é descrito como um grande reptil de seis patas que tem uma pele muito resistente e rochosa que garante a ele uma alta resistencia a todo tipo de dano, lembrando vagamente um crocodilo ou rinoceronte pela mistura de caça voraz e resistencia extrema permitindo que ele reine sobre os outros seres habitante das montanhas. Segundo as lendas esse montros viveria em Edelvais.
+ E por fim Troll, o senhor das floresta ou o Abjugado, esse ser ganhou alem do titulo de sir, tambem ganhou o de abjugado pela sua historia horrenda onde um membro da corte teria oferecido sua familia como sacrificio para prosperidade de seu reino e acabou sendo transformado pelos deuses como forma de punição. Ele tem uma forma humanoide mais selvagem, animalesca e fora de proporção. Ele carrega uma arma em forma de porrete e nao exise registro falando sobre sua origem
 
 ## O Feudo dos Drãgoes
 
@@ -89,5 +91,14 @@ Xp			  |   Lvl
  34,000		|	 8
  48,000		|	 9
  64,000		|	 10
-
+85,000	    |11	
+100,000	    |12	
+120,000	    |13	
+140,000	    |14	
+165,000	    |15	
+195,000	    |16	
+225,000	    |17	
+265,000	    |18	
+305,000	    |19	
+355,000	    |20	
 	

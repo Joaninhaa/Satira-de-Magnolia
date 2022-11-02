@@ -1,0 +1,1 @@
+Esse repositorio consta de uma ficha, para cada jogador, de uma copia em PDF do livro de montros 5 edicao de DnD, que é utilizado para os combates, e conta tambem com uma arquivo com uma historia base, um bestiario, conjunto de monstros que serao usados, e uma tabela com a relação entre xp e lvl. Isso tudo visa cobrir uma campanha completa de RPG de mesa.

@@ -19,7 +19,7 @@
 
 ## O Desastre 
  Após evoluírem um pouco suas habilidades e conhecimento e a situação envolvendo a transformação se espalhar por Stellata, Eadwing pede que Artemis e Camilo retornem para a Academia. Chegando naquele local um desastre ocorre, alguns servos da Magno planejam atacar a pequena vila com um exército de goblins, os batedores da academia descobrem essa informação com um dia de antecedência, o que não era tempo suficiente para chegar ajuda da capital fazendo necessário com que todos os estudantes da academia entrem em combate. 
- Porém, enquanto a vila sofreu um ataque, o verdadeiro plano da Magno é revelado. Três servos diferente dos demais, normalmente os servos são vistos com mantos, aqueles que são magos, ou um manto cobrindo um de seus ombros, para os guerreiros, e alguns utilizam uma capa, os elfos. Entretanto, essas vestes compartilham a mesma coloração, preta, e trazem o símbolo de Magno: O último Barão da Destruição, Roca. Entretanto entre esses servos que apareceram, dois deles usam mantos muito mais adornados e com vários detalhes além de trazer uma representação do Verme Púrpura, o penúltimo Barão da Destruição, e o último utiliza uma veste completamente diferente, ela tem um tom rosado e apresenta um olho gigantesco no peito além de um conjunto de círculos de diversas colorações nas costas. Eles atacam a Academia utilizando um WYVERN, lançando ela em chamas e indo embora tão rápido quanto vieram. É possível notar o desespero de Eadwing quando ele vê a Academia em chamas e ele corre em direção a ela gritando histericamente: A COLEÇÃO PROIBIDA, ELA NÃO PODE SER PERDIDA, NÃO NESSE MOMENTO.
+ Porém, enquanto a vila sofreu um ataque, o verdadeiro plano da Magno é revelado. Três servos diferente dos demais, normalmente os servos são vistos com mantos, aqueles que são magos, ou um manto cobrindo um de seus ombros, para os guerreiros, e alguns utilizam uma capa, os elfos. Entretanto, essas vestes compartilham a mesma coloração, preta, e trazem o símbolo do Último Barão da Destruição, Roca. Entretanto entre esses servos que apareceram, dois deles usam mantos muito mais adornados e com vários detalhes além de trazer uma representação do Verme Púrpura, o penúltimo Barão da Destruição, e o último utiliza uma veste completamente diferente, ela tem um tom rosado e apresenta um olho gigantesco no peito além de um conjunto de círculos de diversas colorações nas costas. Eles atacam a Academia utilizando um WYVERN, lançando ela em chamas e indo embora tão rápido quanto vieram. É possível notar o desespero de Eadwing quando ele vê a Academia em chamas e ele corre em direção a ela gritando histericamente: A COLEÇÃO PROIBIDA, ELA NÃO PODE SER PERDIDA, NÃO NESSE MOMENTO.
 
 
 ## A Revelação
@@ -44,15 +44,23 @@
 ## Necronomicon: Entre a Vida e a Monstruosidade
  Esse foi um livro de criação da Magno em uma linguagem até hoje desconhecida, alguns estudiosos tentaram decifrar seus enigmas porém as suas descobertas apenas levaram a panico geral de todos fazendo com que a imperatriz queimasse todos os exemplares que eram conhecidos dizendo que seu conhecimento jamais deveria ser aprendido por qualquer um e que isso levaria a uma catastrofe sem tamanho. Acreditasse que em uma de suas partes, esse livro continha o conhecimento sobre as relações entre a vida, a morte e os montros, alguns chegam até mesmo a dizer que o livro continha rituais de transformação alem de todo tipo de pensamento filosofico como relacionamentos com monstros e sua conciencia.
 
+
 ## O Mito da Estrela Branca
+ As lendas que contam sobre o fim da Dama da agua nao sao muito consistentes e divergem em suas explicações. As mais conhecidas e aceitas sao a teoria religiosa, onde os deuses teriam utilizado de seu poder para banir esse demonio voraz de volta ao pó, e tambem o Grande Feito de Logan, os defensores dessa tese acreditam que o Grande Mago Logan teria utilizado uma poderosa magia para suprimir os poderes de regeneração do monstro e conseguir derrota-lo. Todas as historias convergem para o ponto que uma grande luz branca foi vista, a Hidra sumiu e o Mar da Estrela-Branca nasceu no local da "batalha".
+ 
  
 ## Edelvais: A Batalha Solar
 
-## Grimorio: Basicos e Os Senhores de Stellata
+
+## Grimorio: Introdução
 
 
 ## Mensageiros da Noite
  Após recolher todos os livros que estavam em pior estado e do diretor catalogar seus nomes, ele entrega uma lista aos aventureiros e entrega-lhes uma missao muito complexa, alguns pensariam impossivel: Levar os livros até a rainha sem que ninguem saiba. Uma missao que devera ser feita em completo sigilo visto que nao se sabe quem espalhou a informação da Coleção Proibida, é impressidivel avisar a rainha sobre o ataque daqueles estranhos membros do culto e que somente a rainha tem acesso aos livros probidos no castelo. É periso espalhar muito essa informação agora e o diretor nao pode cuidar do problema, pois ele deve lidar com toda a situaçao do ataque a vila e colocar o resto da coleção em um local seguro.
+ 
+ 
+## Olhares Ocultos
+ Os aventureiros apos entrarem em contato pessoalmente com a imperatriz acabam aguardando um pouco em seu quarto, que causa muita estranheza com uma sensação de ser observado constante. Em certo ponto percebem que a porta fora fechada após a saida sair, e pior: A sensação de observação piora a cada minuto se findando em um acontecimento terrivel. A janela do quarto se parte em pedaços e por ela entra uma figura humanoide coberta com um manto rosado que ja foi visto antes, ele usa as mesmas vestes que o servo da Magno que atacou a Academia de Magia, ele levanta sua mao e acaba colocando a mostra uma mao que nao é humana, ela se parece muito com uma protese arcana mas esta muito alem disso. Antes que os amigos se recuperaçem do susto ele levanta a voz e fala: EM NOME DO CLÃ MAGNO, EU PEÇO AO OBSERVADOR QUE OLHE PELA MINHA CAUSA E ME EMPRESTE UMA FRAÇÃO DE SEU PODER PARA ELIMINAR ESSES INFIEIS IGNORANTES. Ao acabar de recitar suas palavras é possivel ver que o servo entra em um estado de convulsao, seus olhos se reviram nas orbitas desesperadamente e todo seu corpo treme a uma velocidade que nao poderia ser humana ate q subitamente, tao inesperadamente quanto começou, ele para e começa a vomitar uma gosma de tom rosado tal qual seu manto que se prende ao chao e ele fica nesse estado alguns segundos até que para pra concluir sua fala: O OBSERVADOR NAO TERA PENA DE SUAS ALMAS INSIGNIFICANTES, ENTRETANTO NAO TEMAM VOCES SERVIRAM DE SACRIFICIO PRA UMA NOVA ERA QUE ESTA POR VI. BOA SORTE, VOCES VAO PRECISAR.  Eles sai pela janela que entrou enquanto a gosma no chao começa a se remexer, ela começa a se transformar primeiramente se agloramera e começa a flutuar em pleno ar formando uma esfera de tamanho mediano, após isso surgem tentaculos com olhos nas extremidades, uma boca imensa cheia de dentes e por fim um enorme olho no centro. A criatura move seu olho rapidamente por toda a sala observando toda materia viva e por fim para o olho sobre os humanos encarando todos com desprezo, e para a surpresa de todos ela fala, com certa dificuldade ainda se acostumando a forma que acabara de assumir: VOCES SAO IMPERFEITOS, NAO SAO PUROS. FRACOS. DEVEM SER ELIMINADOS. Agora todos naquela sala correm real perigo, por mais que seja menor, eles estao de frente a um OBSERVADOR.
 		
 ## Quests
 * Ir para capital
@@ -86,6 +94,12 @@ DRAGAO AZUL ANCIÃO|
 DRAGAO COBRE ANCIÃO|
 DRAGAO VERMELHO ANCIÃO|
 TARRASQUE|
+OBSERVADOR|
+BRUXA VERDE|
+CONVENÇÃO DE BRUXAS|
+BRUXA DA NOITE|
+
+
 
 
 Xp			  |   Lvl
@@ -120,4 +134,3 @@ Xp			  |   Lvl
 1.200.000 | 28 
 1.500.000 | 29 
 1.800.000 | 30 
-	
